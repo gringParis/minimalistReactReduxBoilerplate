@@ -1,3 +1,3 @@
-# React redux minimalist boilerplace
+# React redux bootstrap minimalist boilerplate
 
 enjoy
