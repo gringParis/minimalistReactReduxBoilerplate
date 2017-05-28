@@ -2,11 +2,7 @@ import React from 'react'
 import Dummy from './components/dummy.jsx'
 
 export default class Main extends React.Component {
-  constructor (props)	{
-    super(props)
-  }
-
-  render ()	{
+  render () {
     return (
       <div class='main row'>
         <header class='bs-docs-nav navbar navbar-static-top'>
